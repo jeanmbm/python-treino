@@ -4,3 +4,7 @@
 #     - Triângulo Equilátero: três lados iguais;
 #     - Triângulo Isósceles: quaisquer dois lados iguais;
 #     - Triângulo Escaleno: três lados diferentes;
+
+primeiro_lado = int(input('Digite o valor do 1° lado: '))
+segundo_lado = int(input('Digite o valor do 2° lado: '))
+terceiro_lado = int(input('Digite o valor do 3° lado: '))

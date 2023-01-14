@@ -11,3 +11,4 @@
 #      - FGTS (11%)                      : R$  121,00
 #      - Total de descontos              : R$  165,00
 #      - Salário Liquido                 : R$  935,00
+

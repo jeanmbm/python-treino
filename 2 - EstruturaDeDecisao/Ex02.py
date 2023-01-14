@@ -2,9 +2,9 @@
 
 letra = input('Digite seu sexo - F (feminino) ou M (masculino): ')
 
-if letra == 'F':
+if letra.upper() == 'F':
     print('F - Feminino')
-elif letra == 'M':
+elif letra.upper() == 'M':
     print('M - Masculino')
 else:
     print('Sexo Inválido')
