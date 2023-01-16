@@ -1,0 +1,2 @@
+Exercício retirados do repositório do github:
+https://github.com/mlhoffmann/PythonFundamentos
